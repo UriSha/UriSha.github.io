@@ -174,9 +174,9 @@
     
     <item>
       <title>Neural Machine Translation without Embeddings</title>
-      <link>https://urisha.github.io/publication/embeddingless/</link>
+      <link></link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://urisha.github.io/publication/embeddingless/</guid>
+      <guid></guid>
       <description>&lt;p&gt;&lt;a href=&#34;&#34; title=&#34;#Supplementary notes can be added here, including [code, math, and images]&amp;amp;#40;https://wowchemy.com/docs/writing-markdown-latex/&amp;amp;#41;.&#34;&gt;comment&lt;/a&gt;: &amp;lt;&amp;gt; (#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
   &lt;div&gt;
     &lt;p&gt;)&lt;/p&gt;
@@ -191,12 +191,6 @@
   &lt;/div&gt;
 &lt;/div&gt;
 )
-&lt;p&gt;_build:
-render: never
-cascade:
-_build:
-render: never
-list: always&lt;/p&gt;
 </description>
     </item>
     
