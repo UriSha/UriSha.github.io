@@ -76,70 +76,11 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://urisha.github.io/publication/embeddingless/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://urisha.github.io/publication/embeddingless/</guid>
-      <description>&lt;p&gt;_build:
-render: never
-cascade:
-_build:
-render: never
-list: always&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;title: &amp;ldquo;Neural Machine Translation without Embeddings&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;authors&#34;&gt;Authors&lt;/h1&gt;
-&lt;h1 id=&#34;if-you-created-a-profile-for-a-user-eg-the-default-admin-user-write-the-username-folder-name-here&#34;&gt;If you created a profile for a user (e.g. the default &lt;code&gt;admin&lt;/code&gt; user), write the username (folder name) here&lt;/h1&gt;
-&lt;h1 id=&#34;and-it-will-be-replaced-with-their-full-name-and-linked-to-their-profile&#34;&gt;and it will be replaced with their full name and linked to their profile.&lt;/h1&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;li&gt;Omer Levy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;author-notes-optional&#34;&gt;Author notes (optional)&lt;/h1&gt;
-&lt;p&gt;date: &amp;ldquo;2020-08-21T00:00:00Z&amp;rdquo;
-doi: &amp;quot;&amp;quot;&lt;/p&gt;
-&lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
-&lt;p&gt;#publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-&lt;h1 id=&#34;legend-0--uncategorized-1--conference-paper-2--journal-article&#34;&gt;Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;&lt;/h1&gt;
-&lt;h1 id=&#34;3--preprint--working-paper-4--report-5--book-6--book-section&#34;&gt;3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;&lt;/h1&gt;
-&lt;h1 id=&#34;7--thesis-8--patent&#34;&gt;7 = Thesis; 8 = Patent&lt;/h1&gt;
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-publication-name&#34;&gt;Publication name and optional abbreviated publication name.&lt;/h1&gt;
-&lt;p&gt;publication: In &lt;em&gt;2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics&lt;/em&gt;
-publication_short: In &lt;em&gt;NAACL 2021&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;h1 id=&#34;summary-an-optional-shortened-abstract&#34;&gt;Summary. An optional shortened abstract.&lt;/h1&gt;
-&lt;p&gt;#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/p&gt;
-&lt;p&gt;tags: []&lt;/p&gt;
-&lt;h1 id=&#34;display-this-page-in-the-featured-widget&#34;&gt;Display this page in the Featured widget?&lt;/h1&gt;
-&lt;p&gt;featured: true&lt;/p&gt;
-&lt;h1 id=&#34;custom-links-uncomment-lines-below&#34;&gt;Custom links (uncomment lines below)&lt;/h1&gt;
-&lt;p&gt;#links:&lt;/p&gt;
-&lt;h1 id=&#34;--name-websote&#34;&gt;- name: Websote&lt;/h1&gt;
-&lt;h1 id=&#34;url-httpsscrolls-benchmarkcom&#34;&gt;url: &lt;a href=&#34;https://scrolls-benchmark.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scrolls-benchmark.com&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;url_pdf: &amp;lsquo;&lt;a href=&#34;https://arxiv.org/pdf/2008.09396.pdf%27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2008.09396.pdf&#39;&lt;/a&gt;
-url_code: &amp;lsquo;&lt;a href=&#34;https://github.com/UriSha/EmbeddinglessNMT%27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/UriSha/EmbeddinglessNMT&#39;&lt;/a&gt;
-url_dataset: &#39;&amp;rsquo;
-url_poster: &#39;&amp;rsquo;
-url_project: &#39;&#39;
-url_slides: &#39;&#39;
-url_source: &#39;&#39;
-url_video: &#39;&#39;&lt;/p&gt;
-&lt;h1 id=&#34;associated-projects-optional&#34;&gt;Associated Projects (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-internal-project-references-contentprojectinternal-projectindexmd&#34;&gt;E.g. &lt;code&gt;internal-project&lt;/code&gt; references &lt;code&gt;content/project/internal-project/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-projects-&#34;&gt;Otherwise, set &lt;code&gt;projects: []&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;#projects:
-#- example&lt;/p&gt;
-&lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;h2 id=&#34;slides-&#34;&gt;slides: &amp;quot;&amp;quot;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;&#34; title=&#34;#Supplementary notes can be added here, including [code, math, and images]&amp;amp;#40;https://wowchemy.com/docs/writing-markdown-latex/&amp;amp;#41;.&#34;&gt;comment&lt;/a&gt;: &amp;lt;&amp;gt; (#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+      <title>Neural Machine Translation without Embeddings</title>
+      <link></link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;&lt;a href=&#34;&#34; title=&#34;#Supplementary notes can be added here, including [code, math, and images]&amp;amp;#40;https://wowchemy.com/docs/writing-markdown-latex/&amp;amp;#41;.&#34;&gt;comment&lt;/a&gt;: &amp;lt;&amp;gt; (#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
   &lt;div&gt;
     &lt;p&gt;)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;&#34; title=&#34;#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.&#34;&gt;comment&lt;/a&gt;: &amp;lt;&amp;gt; (#&lt;/p&gt;
